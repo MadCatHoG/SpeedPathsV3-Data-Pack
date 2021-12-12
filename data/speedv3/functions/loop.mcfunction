@@ -1,9 +1,9 @@
 ##########################################
 # Author: MadCat (youtube.com/MadCatHoG) 
 # Date: Aug 08, 2018
-# Updated: Aug 10, 2019
-# Version: 3.1
-# Minecraft Version 1.13+/1.14+
+# Updated: Dec 11, 2021
+# Version: 3.2
+# Minecraft Version 1.17.X / 1.18.X
 # Description:
 # Speed Paths loop Function
 ##########################################
